@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Iram Chowdhury (Aryan). I am a student studying computer programming & analysis at Seneca Polytechnic. 
+
 <!--
 **iram-chowdhury/iram-chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
